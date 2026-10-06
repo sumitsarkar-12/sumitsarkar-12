@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:3b2f7a,100:70a5fd&height=260&section=header&text=Sumit%20Sarkar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Frontend%20Engineer%20%E2%80%A2%20HTML%20%C2%B7%20CSS%20%C2%B7%20JavaScript&descAlignY=58&descSize=18" alt="Header banner" />
-
 <a href="https://github.com/sumitsarkar-12">
   <img src="https://github.com/sumitsarkar-12.png" width="150" alt="Sumit Sarkar" style="border-radius:50%;" />
 </a>
